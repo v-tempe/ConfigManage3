@@ -1,0 +1,6 @@
+server_port: 8080
+server_name: MyServer
+calculate: 8083
+table:
+  user: admin
+  password: secret

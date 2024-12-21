@@ -1,0 +1,10 @@
+|#
+Настройки сервера
+#|
+def server_port := 8080;
+def server_name := "MyServer";
+def calculate := ![ + 3 server_port ];
+table(
+ user => "admin",
+ password => "secret"
+)

@@ -1,0 +1,9 @@
+|#
+Настройки приложения
+#|
+def app_name := "MyApp";
+def app_version := "1.0";
+table(
+ language => "ru",
+ max_users => 100
+)
